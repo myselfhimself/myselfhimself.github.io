@@ -3,6 +3,7 @@ This is a Brick Breaker game using p5.js. It's featured on [p5js homwpage](http:
 
 ### Play the game!
 [https://yining1023.github.io/brickBreaker](https://yining1023.github.io/brickBreaker)
+[https://myselfhimself.github.io/](https://myselfhimself.github.io/)
 
 ### Watch the video tutorial here!
 [https://youtu.be/5kEPixL8JoU](https://youtu.be/5kEPixL8JoU)
